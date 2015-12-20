@@ -3,7 +3,7 @@
         "engine": "3", 
         "constants": {
             "ANDROID_STUDIO_JNI_DIR": "n/a", 
-            "COCOS_BACKUP_DIR": "backup-2015-12-09/", 
+            "COCOS_BACKUP_DIR": "backup-2015-12-20/", 
             "COCOS_PROJECT_DIR": "./", 
             "COCOS_2DX_INSTALLATION_VERSION": "3.7.0", 
             "plugin_review_res_bundle_path": "frameworks/runtime-src/proj.ios_mac/plugin_review_res_bundle/", 
@@ -49,8 +49,8 @@
         "version": [
             1, 
             5, 
-            0, 
-            3
+            1, 
+            4
         ], 
         "name": "review", 
         "args": {
